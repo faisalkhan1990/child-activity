@@ -1,0 +1,16 @@
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/child_activity_app
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/.gitkeep
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/faisal/Documents/newflutter/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
